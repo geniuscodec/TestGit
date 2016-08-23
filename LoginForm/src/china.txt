@@ -1,0 +1,5 @@
+Jane  Whitaker   20
+Mary   Malcolm  25
+Dorothy  Mccauley 50
+Sarah    White 15
+Rose   Francs 100
